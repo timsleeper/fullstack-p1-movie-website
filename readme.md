@@ -11,7 +11,9 @@ In order to run this project you just need any version of Python (2 or 3). Just 
 Here are the files that should be on the same folder:
 
 entertainment_center.py - Main file that should be run. Also contains the list of movies along with pictures and descriptions that are going to be displayed.
+
 media.py file contains the Movie class which we're going to use along the file.
+
 fresh_tomatoes.py file will create the .html with our Movie objects
 
 ### Installing and Running
